@@ -1,0 +1,13 @@
+
+public class ManagerMain {
+
+	//contains financial formulas for calculating estimates,
+	//and CRUD operations to the database
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello world");
+	}
+
+}

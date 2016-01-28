@@ -1,14 +1,6 @@
-# software_engineering
-repo for CPS410-related projects
+# software_engineering - Business Management Application
 
-This has been added to my computer.  Test!
+Project is for building a customizable interface for business applications
 
-durr durr
+Using the template code, the business manager can add data for finances, account/customer management, employee management, and keeping track of business/operations.  The user will be able to create custom names of elements for each of the business functions, as our application will ultimately be written as a business application for writing business applications.  We will have an indexing system for performing the proper CRUD operations, and plan to use SQLite or MySQL.
 
-<<<<<<< HEAD
-I shouldn't be able to push this
-=======
-
-Fuck your dur du
-rrrrrrr
->>>>>>> ba4f021e5c26629913737dc55d5d13b7c964a07c
